@@ -1,0 +1,6 @@
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe.config
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\TypeConversion\TypeConversion\bin\Debug\TypeConversion.pdb
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\TypeConversion\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\TypeConversion\TypeConversion\obj\Debug\TypeConversion.exe
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\TypeConversion\TypeConversion\obj\Debug\TypeConversion.pdb

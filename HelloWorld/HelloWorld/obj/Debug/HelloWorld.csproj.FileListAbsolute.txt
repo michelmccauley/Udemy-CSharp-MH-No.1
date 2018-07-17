@@ -1,0 +1,7 @@
+C:\Users\Michel\Documents\GitHub\UDemy\Udemy CSharp MH1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Michel\Documents\GitHub\UDemy\Udemy CSharp MH1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Michel\Documents\GitHub\UDemy\Udemy CSharp MH1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Michel\Documents\GitHub\UDemy\Udemy CSharp MH1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Michel\Documents\GitHub\UDemy\Udemy CSharp MH1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Documents\GitHub\UDemy\Udemy CSharp MH1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Michel\Documents\GitHub\UDemy\Udemy CSharp MH1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

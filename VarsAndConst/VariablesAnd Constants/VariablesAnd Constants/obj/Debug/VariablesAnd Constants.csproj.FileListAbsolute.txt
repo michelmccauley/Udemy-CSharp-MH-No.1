@@ -1,0 +1,7 @@
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\VarsAnd Const\VariablesAnd Constants\VariablesAnd Constants\bin\Debug\VariablesAnd Constants.exe.config
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\VarsAnd Const\VariablesAnd Constants\VariablesAnd Constants\bin\Debug\VariablesAnd Constants.exe
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\VarsAnd Const\VariablesAnd Constants\VariablesAnd Constants\bin\Debug\VariablesAnd Constants.pdb
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\VarsAnd Const\VariablesAnd Constants\VariablesAnd Constants\obj\Debug\VariablesAnd Constants.csprojAssemblyReference.cache
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\VarsAnd Const\VariablesAnd Constants\VariablesAnd Constants\obj\Debug\VariablesAnd Constants.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\VarsAnd Const\VariablesAnd Constants\VariablesAnd Constants\obj\Debug\VariablesAnd Constants.exe
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\VarsAnd Const\VariablesAnd Constants\VariablesAnd Constants\obj\Debug\VariablesAnd Constants.pdb

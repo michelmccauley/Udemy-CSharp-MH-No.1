@@ -1,0 +1,11 @@
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\Operators\Operators\bin\Debug\netcoreapp2.0\Operators.deps.json
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\Operators\Operators\bin\Debug\netcoreapp2.0\Operators.runtimeconfig.json
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\Operators\Operators\bin\Debug\netcoreapp2.0\Operators.runtimeconfig.dev.json
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\Operators\Operators\bin\Debug\netcoreapp2.0\Operators.dll
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\Operators\Operators\bin\Debug\netcoreapp2.0\Operators.pdb
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\Operators\Operators\obj\Debug\netcoreapp2.0\Operators.csprojAssemblyReference.cache
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\Operators\Operators\obj\Debug\netcoreapp2.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\Operators\Operators\obj\Debug\netcoreapp2.0\Operators.AssemblyInfoInputs.cache
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\Operators\Operators\obj\Debug\netcoreapp2.0\Operators.AssemblyInfo.cs
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\Operators\Operators\obj\Debug\netcoreapp2.0\Operators.dll
+C:\Users\Michel\Documents\Programer Training\UDemy\CHSARP\Udemy CSharp MH No.1\Operators\Operators\obj\Debug\netcoreapp2.0\Operators.pdb
